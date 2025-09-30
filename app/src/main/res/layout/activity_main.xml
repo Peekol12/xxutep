@@ -148,6 +148,14 @@
             android:layout_weight="1"
             android:onClick="my_tan_click"
             android:text="@string/act_tan" />
+
+        <Button
+            android:id="@+id/button_sqrt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="my_sqrt_click"
+            android:text="@string/act_sqrt" />
     </LinearLayout>
 
 </LinearLayout>

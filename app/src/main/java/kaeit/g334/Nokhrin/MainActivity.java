@@ -131,4 +131,16 @@ public class MainActivity extends AppCompatActivity {
         lr.setText(sc);
 
     }
+
+    public void my_sqrt_click(View v)
+    {
+        String sa = ta.getText().toString();
+
+        float a = Float.parseFloat(sa);
+        double result = Math.sqrt(a);
+
+        String sc = String.valueOf(result);
+        lr.setText(sc);
+
+    }
 }
