@@ -138,7 +138,7 @@ public class MainActivity extends AppCompatActivity {
 
         float a = Float.parseFloat(sa);
         double result = Math.sqrt(a);
-
+//gfjj
         String sc = String.valueOf(result);
         lr.setText(sc);
 
