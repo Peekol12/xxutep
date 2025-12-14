@@ -4,11 +4,8 @@
     <string name="act_sub">Sub</string>
     <string name="act_mul">Mul</string>
     <string name="act_div">Div</string>
-    <string name="act_sin">Sin</string>
-    <string name="act_cos">Cos</string>
-    <string name="act_tan">Tan</string>
-    <string name="act_sqrt">Sqrt</string>
     <string name="info_result">Result:</string>
-    <string name="inf_value_a">Value A:</string>
-    <string name="inf_value_b">Value B:</string>
+    <string name="info_zero">0</string>
+    <string name="inf_value_a">Num A:</string>
+    <string name="inf_value_b">Num B:</string>
 </resources>
